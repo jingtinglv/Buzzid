@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+
+Double_model/predict/Data/
+Double_model/predict/tmp/
+Double_model/predict/Output/*.csv
+Only_Dna_model/predict/Data/
+Only_Dna_model/predict/tmp/
+Only_Dna_model/predict/Output/*.csv
+
